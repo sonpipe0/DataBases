@@ -8,4 +8,4 @@ select
 from
     Persona as P join Progenitor as PR on P.dni = PR.dni
     join Persona as H on H.dni = PR.dni_hijo
-where P.nombre = 'Juan Gil'
+    where P.nombre = 'Juan Gil'
