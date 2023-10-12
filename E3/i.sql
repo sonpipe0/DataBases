@@ -1,0 +1,1 @@
+SELECT Proveedor.nombre FROM Proveedor WHERE Proveedor.ciudad = 'La Plata'

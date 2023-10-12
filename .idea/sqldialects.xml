@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/E5/SQLqueries.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/E5/addToDatabase.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/E5/ej_B_A.sql" dialect="GenericSQL" />
-    <file url="PROJECT" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/E3/ii.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/E3/iii.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/E3/iv.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/E3/v.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/E3/vi V2.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/E3/vi.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/E5/addToDatabase.sql" dialect="SQLite" />
+    <file url="PROJECT" dialect="SQLite" />
   </component>
 </project>
